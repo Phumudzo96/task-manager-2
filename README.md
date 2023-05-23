@@ -64,6 +64,7 @@ that are overdue.
 ▪ The percentage of tasks that are overdue.
 
 o user_overview.txt should contain:
+
 ▪ The total number of users registered with task_manager.py.
 ▪ The total number of tasks that have been generated and
 tracked using the task_manager.py.
