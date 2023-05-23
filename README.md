@@ -1,4 +1,11 @@
-# Task manager 2
+# Table of content
+
+● Introduction
+
+● Technologies
+
+# Introduction
+
 Create a copy of your previous Capstone project (task_manager.py) and
 save it in the Dropbox folder for this project. Also, copy and paste the text
 ﬁles (user.txt and tasks.txt) that accompanied the previous Capstone
@@ -87,3 +94,9 @@ have not yet been completed and are overdue?
 Modify the menu option that allows the admin to display statistics so that
 the reports generated are read f rom task_overview.txt and
 user_overview.txt and displayed on the screen in a user-f riendly manner.
+
+# Technologies
+
+● Python
+
+● Visual Studio Code
